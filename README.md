@@ -7,23 +7,23 @@ Always eager to try out new cool tech and dive into new challenges, so you'll al
 I'm deep into web and software dev but also love rapid prototyping and electronics, technical design, music, games, japanese culture and snowboarding 🏂.
 
 ## What I know :computer:
-- **Frontend**
+- **Web**
   - Typescript :heart:
   - React and Next.js
   - Vue, Vuex and Nuxt
   - Angular
-- **Backend / Software tech**
+- **Software and Backend**
   - Node.js
   - Java
   - Python
   - Rust
   - Docker and Swarm
-- **Misc**
   - GraphQL
+- **Misc**
+  - Linux
   - Adobe Suite
   - Autodesk Maya
   - Solidworks
-  - Linux
 
 ## Working on :gear:
 - Improving my full stack knowledge with TypeScript, jest and ORMs
