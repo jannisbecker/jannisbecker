@@ -4,27 +4,34 @@
 I'm a visual computing and design student with ~2 years experience as software engineer and full stack developer.  
 Always eager to try out new cool tech and dive into new challenges, so you'll always see me doing all kinds of projects 💻  
 
-I'm deep into web and software dev but also love rapid prototyping and electronics, technical design, music, games, japan and snowboarding 🏂.
+I'm deep into web and software dev but also love rapid prototyping and electronics, technical design, music, games, japanese culture and snowboarding 🏂.
 
 ## What I know :computer:
 - **Frontend**
   - Typescript :heart:
   - React and Next.js
   - Vue, Vuex and Nuxt
+  - Angular
 - **Backend / Software tech**
   - Node.js
   - Java
   - Python
   - Rust
-  - Docker
+  - Docker and Swarm
 - **Misc**
   - GraphQL
   - Adobe Suite
+  - Autodesk Maya
+  - Solidworks
   - Linux
 
 ## Working on :gear:
 - Improving my full stack knowledge with TypeScript, jest and ORMs
 - Working on more streamlined git workflows (git flow, proper commits etc)
+
+## Planned projects :file_folder:
+- A ray tracer in Rust based on the "Ray Tracing in a Weekend" series
+- A react-based webapp with various utilities for Japanese learning and anime management
 
 ## Reach me :wave:
 [![Github](https://img.shields.io/github/followers/moka491?label=Follow&style=social)](https://github.com/moka491)
