@@ -41,6 +41,8 @@ I'm deep into web and software dev but also love rapid prototyping and electroni
 
 ### Interesting stats
 
-![Jannis' stats](https://github-readme-stats.vercel.app/api?username=Moka491&&show_icons=true)
+![Jannis' stats](https://github-readme-stats.vercel.app/api?username=Moka491&&show_icons=true&theme=synthwave&hide_border=true&bg_color=35,224,338&icon_color=77A)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moka491&theme=synthwave&hide_border=true&bg_color=35,224,338&icon_color=77A)
 
 Thanks for stopping by! 😁
