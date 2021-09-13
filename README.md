@@ -1,10 +1,10 @@
 # Welcome to my github! 👋
 
 ## About me :mortar_board:
-I'm a visual computing and design student with ~2 years experience as software engineer and full stack developer.  
+I'm a full stack software engineer with ~2 years experience. 
 Always eager to try out new cool tech and dive into new challenges, so you'll always see me doing all kinds of projects 💻  
 
-I'm deep into web and software dev but also love rapid prototyping and electronics, technical design, music, games, japanese culture and snowboarding 🏂.
+I'm deep down the web and software dev rabbit hole but also love rapid prototyping and electronics, technical design, music, games, japanese culture and snowboarding 🏂.
 
 ## What I know :computer:
 - **Web**
@@ -14,7 +14,7 @@ I'm deep into web and software dev but also love rapid prototyping and electroni
   - Angular
 - **Software and Backend**
   - Node.js
-  - Java
+  - Java, Kotlin
   - Python
   - Rust
   - Docker and Swarm
