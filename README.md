@@ -41,9 +41,9 @@ I'm deep down the web and software dev rabbit hole but also love rapid prototypi
 
 ### Interesting stats
 
-![Jannis' stats](https://github-readme-stats.vercel.app/api?username=Moka491&&show_icons=true&theme=synthwave&hide_border=true&bg_color=35,224,338&icon_color=77A)
+![Jannis' stats](https://github-readme-stats.vercel.app/api?username=Moka491&&show_icons=true&theme=synthwave&hide_border=true&bg_color=35,224,338&icon_color=77A&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moka491&theme=synthwave&hide_border=true&bg_color=35,224,338&icon_color=77A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moka491&theme=synthwave&hide_border=true&bg_color=35,224,338&icon_color=77A&v=2)
 
 Thanks for stopping by! 😁
 
