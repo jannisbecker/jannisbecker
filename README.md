@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 ## About me :mortar_board:
-I'm a full stack software engineer with ~2 years experience. 
+I'm a full stack software engineer with ~4 years experience. 
 Always eager to try out new cool tech and dive into new challenges, so you'll always see me doing all kinds of projects 💻  
 
 I'm deep down the web and software dev rabbit hole but also love rapid prototyping and electronics, technical design, music, games, japanese culture and snowboarding 🏂.
