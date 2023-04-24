@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 ## About me :mortar_board:
-I'm a full stack software engineer with ~4 years experience. 
+I'm a full stack software engineer with 5 years experience. 
 Always eager to try out new cool tech and dive into new challenges, so you'll always see me doing all kinds of projects 💻  
 
 I'm deep down the web and software dev rabbit hole but also love rapid prototyping and electronics, technical design, music, games, japanese culture and snowboarding 🏂.
@@ -24,14 +24,6 @@ I'm deep down the web and software dev rabbit hole but also love rapid prototypi
   - Adobe Suite
   - Autodesk Maya
   - Solidworks
-
-## Working on :gear:
-- Improving my full stack knowledge with TypeScript, jest and ORMs
-- Working on more streamlined git workflows (git flow, proper commits etc)
-
-## Planned projects :file_folder:
-- A ray tracer in Rust based on the "Ray Tracing in a Weekend" series
-- A react-based webapp with various utilities for Japanese learning and anime management
 
 ## Reach me :wave:
 [![Github](https://img.shields.io/github/followers/moka491?label=Follow&style=social)](https://github.com/moka491)
